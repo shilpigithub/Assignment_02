@@ -30,12 +30,9 @@ if (gameBegin === 'yes') {
         } else {
             alert('Thank You! We are working hard to improve the game.');
         }
-
     } else {
         alert('Thank You for playing!');
     }
-
-
 } else {
     alert('Thank You ! Please try the game next time .');
 }

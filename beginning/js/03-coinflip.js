@@ -2,9 +2,7 @@
 // Usage: Use nested conditional statements
 // In this part of the assignment you will explore what you’ve learned so far about variables, prompts, conditionals, operators, math, and more to create a “coin flip game”. To complete the game follow the steps outlined below:
 //     1. Begin your application by creating a variable called coinFlip and set it equal to a random number. You will have to use a Math method to get this number:
-
 // let randomNum = Math.round(Math.random());
-
 //     2. Prompt the user to select “Heads or Tails” and set the result to a new variable called choice.
 //     3. Use a conditional to check the result of the coin flip. If it’s less than a certain number, it will be heads. If it’s greater than a certain number, it will be tails. 
 //     4. If the result is heads and the user selects heads, display the following message within an alert: 
@@ -41,4 +39,5 @@ if (coinFlip === 1 ) {
     }
 
 }
+
 
